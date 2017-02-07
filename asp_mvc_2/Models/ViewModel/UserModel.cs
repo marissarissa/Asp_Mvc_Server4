@@ -38,4 +38,6 @@ namespace asp_mvc_2.Models.ViewModel
         public string Password { get; set; }
 
     }
+
+
 }
